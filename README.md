@@ -1,5 +1,5 @@
 # EToastr
-Notification/Toastr component for C++/Qt
+Animated Notification/Toastr component for C++/Qt
 
 # EToastr Styles:
 + MESSAGE
