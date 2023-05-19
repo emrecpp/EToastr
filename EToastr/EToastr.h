@@ -17,7 +17,6 @@
 #include <QLabel>
 #include <QGridLayout>
 #include <QPainter>
-#include <QDesktopWidget>
 #include <qscreen.h>
 #include <QApplication>
 #include <QResizeEvent>
